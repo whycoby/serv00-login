@@ -5,7 +5,7 @@
 
 利用github Action以及python脚本实现
 
-🙏🙏🙏点个Star！！Star！！Star！！
+🙏🙏🙏点个Star！！Star！！Star！
 
 交流群：https://t.me/yxjsjl
 
